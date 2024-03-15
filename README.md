@@ -2,6 +2,13 @@
 
 This repository contains an Ethereum ERC20 token smart contract with a fixed price mechanism. Ideal for simple token transactions at a consistent price.
 
+<p align="center">
+  <img width="500" src="img/logo.png">
+  <br>
+</p>
+
+<br>
+
 # Contract Rules
 
 1. Admin Management:
